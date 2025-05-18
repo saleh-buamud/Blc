@@ -1,5 +1,5 @@
 <template>
-  <nav class="shadow-md fixed w-full z-50 top-0 left-0">
+  <nav class="shadow-md w-full z-50 top-0 left-0">
     <!-- Container Fluid مع مسافات جانبية -->
     <div
       class="container mx-auto px-8 sm:px-6 lg:px-8 py-9 flex justify-between items-center"

@@ -1,7 +1,8 @@
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
+// https://vitejs.dev/config/
 export default defineConfig({
-  base: "/", // <-- هذا هو المفتاح المهم لإعداد GitHub Pages
+  base: '/Blc',
   plugins: [vue()],
 })
