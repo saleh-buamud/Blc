@@ -29,7 +29,7 @@
       <!-- Toggle Button for Mobile -->
       <button
         @click="toggleMenu"
-        class="md:hidden z-50 text-black focus:outline-none transition-all duration-300"
+        class="md:hidden z-50 text-white focus:outline-none transition-all duration-300"
         aria-label="Toggle menu"
       >
         <svg
